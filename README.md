@@ -1,12 +1,12 @@
 
-# 👋 Hello, I'm Sai Abhinav Goteti
+# WELCOME!, I'm Sai Abhinav Goteti
 📍[Visakhapatnam] | **Email:** [your.email@example.com]
 🔗 **Profiles:** [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Abhinav289) • [LeetCode](https://leetcode.com/Cut_Above)
 
 ---
 
-## 👤 Background
-Hi! I'm a [Year] student at [University Name] studying [Your Major]. I am passionate about AI Systems that solve real-world problems.
+##  About Me
+Hi! I'm a UG student  in Communication and Computer Engineering at LNMIIT, Jaipur . I am passionate about AI Systems that solve real-world problems.
 ---
 
 ## Courses
@@ -16,16 +16,16 @@ Hi! I'm a [Year] student at [University Name] studying [Your Major]. I am passio
 * Object-Oriented Programming
 * Database Management Systems
 
-### **Outside Learning & Summer Schools**
-* **Machine Learning Specialization** (Coursera)
-
+### **Outside Learning**
+* **Deep Learning Summer School 2025** (IIITDM Jabalpur)
+* **AI Research Foundations 2026** (Google DeepMind)
 ---
 
 ## Projects
 
 ### 1. [Project Name](https://github.com/yourusername/project-link)
-* **Description:** A brief 1-2 sentence description of what the project does and why you built it.
-* **Tech Stack:** Python, Flask, HTML/CSS
+* **Description:**
+* **Tech Stack:** 
 
 
 ---
