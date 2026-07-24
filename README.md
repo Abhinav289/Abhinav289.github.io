@@ -5,11 +5,11 @@ I'm Sai Abhinav Goteti from Andhra Pradesh, India.
 
 🔗 **Contact:** [Email](https://your.email@example.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Abhinav289) 
 
----
 
-##  About Me
-Hi! I'm a UG student  in Communication and Computer Engineering at LNMIIT, Jaipur . I am passionate about AI Systems that solve real-world problems.
----
+## About Me
+
+
+ 
 
 ## Courses
 
@@ -21,7 +21,6 @@ Hi! I'm a UG student  in Communication and Computer Engineering at LNMIIT, Jaipu
 ### **Outside Learning**
 * **Deep Learning Summer School 2025** (IIITDM Jabalpur)
 * **AI Research Foundations 2026** (Google DeepMind)
----
 
 ## Projects
 
