@@ -1,16 +1,15 @@
 
 # 👋 Hello, I'm Sai Abhinav Goteti
 📍[Visakhapatnam] | **Email:** [your.email@example.com]
-🔗 **Profiles:** [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [LeetCode](https://leetcode.com/yourusername)
+🔗 **Profiles:** [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Abhinav289) • [LeetCode](https://leetcode.com/Cut_Above)
 
 ---
 
 ## 👤 Background
-Hi! I'm a [Year] student at [University Name] studying [Your Major]. I am passionate about software development, data analysis, and building tools that solve real-world problems. When I'm not coding, I enjoy [Your Hobby].
-
+Hi! I'm a [Year] student at [University Name] studying [Your Major]. I am passionate about AI Systems that solve real-world problems.
 ---
 
-## 📚 Courses & Education
+## Courses
 
 ### **University Courses**
 * Data Structures and Algorithms
@@ -19,22 +18,19 @@ Hi! I'm a [Year] student at [University Name] studying [Your Major]. I am passio
 
 ### **Outside Learning & Summer Schools**
 * **Machine Learning Specialization** (Coursera)
-* **Summer Coding Bootcamp 2023** (Organization Name)
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### 1. [Project Name](https://github.com/yourusername/project-link)
 * **Description:** A brief 1-2 sentence description of what the project does and why you built it.
 * **Tech Stack:** Python, Flask, HTML/CSS
 
-### 2. [Another Project Name](https://github.com/yourusername/project-link)
-* **Description:** Built a tool to help students track their daily expenses.
-* **Tech Stack:** Java, MySQL
 
 ---
 
-## 🏆 Co-Curricular Activities
-* **President, Computer Science Club:** Organized workshops and coding competitions for 100+ students.
-* **Volunteer, Tech NGO:** Taught basic computer skills to high school students over the summer.
+## Co-Curricular Activities
+* **  Member, Astronomy Club:** Organized workshops that include practical telescope handling and Space-tech related problem-solving competitions.
+* ** Teaching Assistant, AI-ML Lab course:** Assisted students in python programming, implementing ML Algorithms from scratch and solving problems on Search techniques (informed and uninformed) and Bayesian Inference.
+
