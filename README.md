@@ -31,6 +31,6 @@ Hi! I'm a UG student  in Communication and Computer Engineering at LNMIIT, Jaipu
 ---
 
 ## Co-Curricular Activities
-* **  Member, Astronomy Club:** Organized workshops that include practical telescope handling and Space-tech related problem-solving competitions.
-* ** Teaching Assistant, AI-ML Lab course:** Assisted students in python programming, implementing ML Algorithms from scratch and solving problems on Search techniques (informed and uninformed) and Bayesian Inference.
+* **Member, Astronomy Club:** Organized workshops that include practical telescope handling and Space-tech related problem-solving competitions.
+* **Teaching Assistant, AI-ML Lab course:** Assisted students in python programming, implementing ML Algorithms from scratch and solving problems on Search techniques (informed and uninformed) and Bayesian Inference.
 
