@@ -1,6 +1,7 @@
 
 # WELCOME!, I'm Sai Abhinav Goteti
-📍[Visakhapatnam] | **Email:** [your.email@example.com]
+From Andhra Pradesh, India 
+**Email:** [your.email@example.com]
 🔗 **Profiles:** [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Abhinav289) • [LeetCode](https://leetcode.com/Cut_Above)
 
 ---
