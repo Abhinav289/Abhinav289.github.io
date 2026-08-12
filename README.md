@@ -5,3 +5,4 @@ This is my personal webpage repository where I upload whatever I did, achieved a
 - Experience on Software and AI Tools
 - Achievements
 - Activities I Participated
+- Resources
